@@ -1,1 +1,1 @@
-The code will be made public and translated into English for release on GitHub at a later date.
+The implementation code will be publicly released on GitHub in due course, along with English documentation.
